@@ -11,8 +11,10 @@ I'm a Computer Science student passionate about coding, problem-solving, and lea
 
 - **Languages:** Python, C, C++
 - **Libraries:** NumPy, Pandas
+- **Databases:** MySQL, SQL
 - **Interests:** Data Science, Machine Learning, AI
 - **Tools:** Git, GitHub
+
 
 ## 📌 Featured Projects
 
