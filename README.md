@@ -7,6 +7,7 @@
 
 I'm a Computer Science student passionate about coding, problem-solving, and learning new technologies. I enjoy building projects and improving my programming skills.
 
+
 ## 🚀 Tech Stack
 
 - **Languages:** Python, C, C++
