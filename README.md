@@ -33,5 +33,5 @@ A hackathon project focused on waste classification and route optimization.
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [My LinkedIn](linkedin.com/in/ritu-malviya-911b10338/)
+- **LinkedIn:** -[Connect with me](https://www.linkedin.com/in/ritu-malviya-911b10338/)
 - **Email:** mritu1860@gmail.com
